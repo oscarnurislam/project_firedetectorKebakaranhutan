@@ -1,0 +1,5 @@
+ pip install opencv-contrib-python
+  pip install opencv-python
+  pip install threaded
+ pip install playsound
+pip install secure-smtplib
